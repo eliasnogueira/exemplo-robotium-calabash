@@ -7,7 +7,7 @@ Este repositório contém projetos de exemplo para mostrar, de forma básica, a 
 
 
 ### Instalação
-Serão necessário os seguintes itens:
+Serão necessários os seguintes itens:
 
   - [Java JDK]
   - [Eclipse ADT]
@@ -15,7 +15,7 @@ Serão necessário os seguintes itens:
   - API 15 ou superior instalada via SDK Manager
 
 ### Projetos
-Existem dois projetos referente a automação com Robotium
+Existem dois projetos referentes a automação com Robotium
   - **fastip-native-android:** aplicação real alvo dos testes
   - **fastip-native-android-test:** projeto de teste para automação do projeto alvo
 
@@ -26,8 +26,8 @@ Para isso, no Eclipse, siga os passos:
   3. Clique no botão _Add_
   4. Selecione o projeto real (FastTip) e clique em OK
 
-Um outro item necessário é associar a biblioteca do Robotium ao projeto. Provavelmente seu projeto estará com um "x" vermelho, onde este é um indicativo da biblioteca faltante. Execute os seguintes passos:
-  1. Faça o downloa da bibioteca do Robotium
+Um outro item necessário é associar a biblioteca do Robotium ao projeto. Provavelmente seu projeto estará com um "x" vermelho, que é um indicativo da biblioteca faltante. Execute os seguintes passos:
+  1. Faça o download da biblioteca do Robotium
   2. Clique com o botão direito no projeto de teste e selecione _Build Path/Configure Build Path..._
   3. Selecione a aba _Libraries_
   4. Selecione a biblioteca que está com um "x" vermelho e clique em _Remove_ para remove-la
@@ -35,7 +35,7 @@ Um outro item necessário é associar a biblioteca do Robotium ao projeto. Prova
   6. Selecione a biblioteca do Robotium que você baixou e clique em OK.
   7. Ainda não feche a janela... leia o que está abaixo...
 
-Um outro ponto é importante: adicionar a biblioteca do Robotium no _Order and Export_
+Um outro ponto importante: adicionar a biblioteca do Robotium no _Order and Export_
   1. Clique na aba _Order and Export_
   2. Clique na checkbox da biblioteca do Robotium
   3. Clique em OK para fechar a janela de propriedades do projeto
