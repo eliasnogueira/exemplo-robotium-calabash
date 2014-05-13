@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FasTip</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Configurações</string>
+    <string name="billAmount">Total da Conta</string>
+    <string name="calculateTip">Calcular Gorjeta</string>
+    <string name="tipAmount">Total da Gorjeta</string>
+    <string name="totalAmount">Total da Conta</string>
+    <string name="title_activity_settings">Configurações</string>
+    <string name="saveSettings">Salvar</string>
+    <string name="tipPercentage">% Gorjeta</string>
+    <string name="percentSymbol">%</string>
+    <string name="alertDialogMessage">Um valor decimal é necessário</string>
+    <string name="alertDialogTitle">Formato incorreto</string>
+    <string name="alertDialogPositiveButton">OK</string>
+    <string name="valueFormat">R$ </string>
+</resources>

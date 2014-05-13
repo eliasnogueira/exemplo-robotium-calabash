@@ -1,0 +1,50 @@
+query("*")
+start_test_server_in_background
+query(*)
+query("*")
+clear
+exit
+start_test_server_in_backgorund
+start_test_server_in_background
+query("*")
+query("UITextField")
+query("UITextField")
+query("TextField")
+touch("class: 'TextField'")
+exit
+start_server_in_background
+start_test_server_in_background
+query("*")
+query("textedit")
+query("edittext")
+query("textview")
+query("TextEdir")
+query("TextEdit")
+query("textfield")
+query("TextField")
+exit
+start_test_server_in_background
+query("textfield"
+start_test_server_in_background
+start_test_server_in_background
+query("textfield")
+query("TextField")
+query("class:'UITextField'")
+query("TextField:'UITextField'")
+query("view:'UITextField'")
+touch("view:'UITextField'")
+keyboard_enter_text "100"
+query("button")
+query("view market:'Calculate Tip'")
+query("view label:'Calculate Tip'")
+query("view marked:'Calculate Tip'")
+touch("view marked:'Calculate Tip'")
+query("label")
+query("label marked:'$115.00'")
+element_exists("label marked:'$115.00'")
+query("label marked:'$115.00'")
+query("label")
+query("label", :text)
+query("label", :text)[5]
+element_exists("label marked:'15.00%'")
+exit
