@@ -8,7 +8,7 @@ Este repositório foi criado para exemplificar uma palestra no The Developers Co
 Este apresentação está disponível [aqui]
 
 O exemplo destas duas aplicações foram retirados dos seguintes posts:
-  - Four Ways To Build A Mobile Application, Part 1: Native iOS
+  - [Four Ways To Build A Mobile Application, Part 1: Native iOS](http://www.smashingmagazine.com/2013/11/22/four-ways-to-build-a-mobile-app-part1-native-ios/)
   - Four Ways To Build A Mobile Application, Part 2: Native Android
 
 ##Automatizando para Android com Robotium
