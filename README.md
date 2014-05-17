@@ -3,7 +3,7 @@
 Este repositório contém projetos de exemplo para mostrar, de forma básica, a automação para dispositivos móveis utilizando [Robotium] e [Calabash] [para iOS].
 
 ### De onde veio a idéia deste repositório?
-Este repositório foi criado para exemplificar uma palestra no The Developers Conference 2014 Florianópolis com o título _Como testar sua aplicação Android e iOS: uma abordagem prática_ na Trilha de Teste.
+Este repositório foi criado para exemplificar uma palestra no [The Developers Conference 2014 Florianópolis](http://www.thedevelopersconference.com.br/tdc/2014/florianopolis/) com o título _Como testar sua aplicação Android e iOS: uma abordagem prática_ na Trilha de Teste.
 
 Este apresentação está disponível [aqui]
 
@@ -103,4 +103,3 @@ Para a execução, você deve:
 [Licença de desenvolvedor para iOS]:https://developer.apple.com/programs/ios/
 [BDD]:http://pt.wikipedia.org/wiki/Behavior_Driven_Development
 [aqui]:http://eliasnogueira.com/portfolio-item/2806/
-[The Developers Conference 2014 Florianópolis]:http://www.thedevelopersconference.com.br/tdc/2014/florianopolis/
