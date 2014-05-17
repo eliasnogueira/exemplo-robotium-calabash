@@ -2,6 +2,14 @@
 
 Este repositório contém projetos de exemplo para mostrar, de forma básica, a automação para dispositivos móveis utilizando [Robotium] e [Calabash] [para iOS].
 
+### De onde veio a idéia deste repositório?
+Este repositório foi criado para exemplificar uma palestra no The Developers Conference 2014 Florianópolis com o título _Como testar sua aplicação Android e iOS: uma abordagem prática_ na Trilha de Teste.
+
+Este apresentação está disponível [aqui]
+
+O exemplo destas duas aplicações foram retirados dos seguintes posts:
+  - Four Ways To Build A Mobile Application, Part 1: Native iOS
+  - Four Ways To Build A Mobile Application, Part 2: Native Android
 
 ##Automatizando para Android com Robotium
 
@@ -94,3 +102,7 @@ Para a execução, você deve:
 [XCode]:https://developer.apple.com/xcode/
 [Licença de desenvolvedor para iOS]:https://developer.apple.com/programs/ios/
 [BDD]:http://pt.wikipedia.org/wiki/Behavior_Driven_Development
+[aqui]:http://eliasnogueira.com/portfolio-item/2806/
+[The Developers Conference 2014 Florianópolis]:http://www.thedevelopersconference.com.br/tdc/2014/florianopolis/
+[Four Ways To Build A Mobile Application, Part 1: Native iOS]:http://www.smashingmagazine.com/2013/11/22/four-ways-to-build-a-mobile-app-part1-native-ios/
+[Four Ways To Build A Mobile Application, Part 2: Native Android]:http://www.smashingmagazine.com/2014/01/10/four-ways-to-build-a-mobile-app-part2-native-android/
