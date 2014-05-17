@@ -9,7 +9,7 @@ Este apresentação está disponível [aqui]
 
 O exemplo destas duas aplicações foram retirados dos seguintes posts:
   - [Four Ways To Build A Mobile Application, Part 1: Native iOS](http://www.smashingmagazine.com/2013/11/22/four-ways-to-build-a-mobile-app-part1-native-ios/)
-  - Four Ways To Build A Mobile Application, Part 2: Native Android
+  - [Four Ways To Build A Mobile Application, Part 2: Native Android](http://www.smashingmagazine.com/2014/01/10/four-ways-to-build-a-mobile-app-part2-native-android/)
 
 ##Automatizando para Android com Robotium
 
@@ -104,5 +104,3 @@ Para a execução, você deve:
 [BDD]:http://pt.wikipedia.org/wiki/Behavior_Driven_Development
 [aqui]:http://eliasnogueira.com/portfolio-item/2806/
 [The Developers Conference 2014 Florianópolis]:http://www.thedevelopersconference.com.br/tdc/2014/florianopolis/
-[Four Ways To Build A Mobile Application, Part 1: Native iOS]:http://www.smashingmagazine.com/2013/11/22/four-ways-to-build-a-mobile-app-part1-native-ios/
-[Four Ways To Build A Mobile Application, Part 2: Native Android]:http://www.smashingmagazine.com/2014/01/10/four-ways-to-build-a-mobile-app-part2-native-android/
